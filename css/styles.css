@@ -10,7 +10,7 @@
   display: grid;
   max-width: 1660px;
   grid-template-columns: repeat(auto-fit, minmax(122px, 1fr));
-  grid-auto-rows: 220px;
+  grid-auto-rows: auto;
   grid-gap: 12px;
   justify-content: center;
   padding: 20px;
